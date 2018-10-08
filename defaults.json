@@ -1,0 +1,13 @@
+{
+    "depth": 3,
+    "tab": "\t",
+    "spaces": 0,
+    "eol": "\n",
+    "spaceAfter": 1,
+    "spaceInlineArray": false,
+    "spaceInlineObject": true,
+    "ignoreNull": false,
+    "ignoreUndefined": true,
+    "emptyArray": "[]",
+    "emptyObject": "{}"
+}
